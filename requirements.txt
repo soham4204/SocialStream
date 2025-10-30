@@ -1,0 +1,12 @@
+kafka-python
+fastapi
+uvicorn
+neo4j
+py2neo
+streamlit
+networkx
+matplotlib
+requests
+python-dotenv
+gunicorn
+pyvis
