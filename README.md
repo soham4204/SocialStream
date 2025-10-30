@@ -173,9 +173,3 @@ social-network-stream/
 - ☁️ **Cloud-native deployment & CI/CD**
 
 ---
-
-<div align="center">
-  <strong>🎉 This concludes the local development & documentation. Ready for worldwide deployment? Ask for the <em>Free Deployment Plan</em>! 🚀</strong>
-</div>
-
-
